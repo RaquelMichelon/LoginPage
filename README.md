@@ -1,10 +1,12 @@
 # Login Page Challenge
 
-The intent of this project is share my learning to improve the usability of a login page.
+The intent of this project was practice html and css. This is a static page, and you can visit it [here](https://raquelmichelon.github.io/LoginPage/)
 
 ## 🚀 Responsive layout
 
 The responsive layout, which is the adaptability of the elements, allows the user interact with the page in a computer or smartphone.
+![](desktop.png)
+![](mobile.png)
 
 
 ## 🛠️ Built with
